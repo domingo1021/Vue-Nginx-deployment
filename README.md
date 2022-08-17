@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### Copy dist static file 
+```
+cp -r ./dist /app
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
